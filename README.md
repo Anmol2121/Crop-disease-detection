@@ -26,4 +26,6 @@ The center image applies a visualization filter highlighting disease-affected re
 The final output shows the model's prediction:
 Potato — Early Blight
 
-This demonstrates the model’s ability to correctly identify diseases from unseen images.
+![image alt](https://github.com/Anmol2121/Crop-disease-detection/blob/0ce2f824a12114bb787d3bd3c5237aa587243636/Screenshot%202025-12-10%20133114.png)
+
+**This demonstrates the model’s ability to correctly identify diseases from unseen images.**
