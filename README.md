@@ -1,5 +1,5 @@
-Leaf Disease Detection Using TensorFlow
-*---*
+**Leaf Disease Detection Using TensorFlow**
+
 This project focuses on building an intelligent plant leaf disease detection system using TensorFlow and Convolutional Neural Networks (CNNs). The goal is to identify plant diseases at an early stage using image classification techniques.
 ![image alt](https://github.com/Anmol2121/Crop-disease-detection/blob/1621e82fcd8e983ac28357cf3e77d155898de176/Screenshot%202025-12-10%20133016.png)
 
